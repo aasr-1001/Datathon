@@ -33,8 +33,8 @@ jupyter notebook Datathon_EDA.ipynb
 
 **KeyFindings**
 
->Our model predicts the future trends (SalePrice) using features.
->It also recommends investors when to invest in a house and when to buy.
->The model tells sustainability enthusiasts, by how much percent the entered house supports green house principles.
->The model provides a map using folium and ammenties nearby (9km) and how it affects the estimated price.
->It has an added functionality where users can add their desired area and other features they are looking for in a house and our model tells the predicted price [LOCATION WISE SEGMENTATION].
+1. Our model predicts the future trends (SalePrice) using features.
+2. It also recommends investors when to invest in a house and when to buy.
+3. The model tells sustainability enthusiasts, by how much percent the entered house supports green house principles.
+4. The model provides a map using folium and ammenties nearby (9km) and how it affects the estimated price.
+5. It has an added functionality where users can add their desired area and other features they are looking for in a house and our model tells the predicted price [LOCATION WISE SEGMENTATION].
