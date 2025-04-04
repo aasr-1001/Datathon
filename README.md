@@ -31,8 +31,10 @@ pip install -r requirements.txt
 Open and run the Jupyter notebook for analysis:
 jupyter notebook Datathon_EDA.ipynb
 
-**KeyFindings**
+**Input & Output of Location Based Segmentation (where users can add their desired area and other features they are looking for in a house and our model tells the predicted price)**
+![WhatsApp Image 2025-04-04 at 18 53 22_66884c60](https://github.com/user-attachments/assets/6476b70f-1e90-4cd0-a048-3dec096ff980)
 
+**KeyFindings**
 1. Our model predicts the future trends (SalePrice) using features.
 2. It also recommends investors when to invest in a house and when to buy.
 3. The model tells sustainability enthusiasts, by how much percent the entered house supports green house principles.
